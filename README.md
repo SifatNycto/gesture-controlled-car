@@ -14,9 +14,22 @@ A gesture-controlled robotic car that moves based on hand gestures detected usin
 - DC Motors & Robot Chassis
 
 ## Folder Structure
-- Transmitter/ : Arduino code for gesture transmitter
-- Receiver/ : Arduino code for robot car receiver
-
+```
+gesture-controlled-car/
+│
+├── Transmitter/
+│   └── Arduino code for gesture-based transmitter using MPU6050
+│
+├── Receiver/
+│   └── Arduino code for robot car receiver and motor control
+│
+├── Circuit Diagrams/
+│   ├── transmitter_circuit_gcc.png
+│   └── receiver_circuit_gcc.png
+│
+├── README.md
+└── LICENSE
+```
 ## Author
 Mehedi Hasan Sifat
 
