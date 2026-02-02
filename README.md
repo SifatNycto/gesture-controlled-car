@@ -19,3 +19,6 @@ A gesture-controlled robotic car that moves based on hand gestures detected usin
 
 ## Author
 Mehedi Hasan Sifat
+
+## License
+This project is licensed under the MIT License.
