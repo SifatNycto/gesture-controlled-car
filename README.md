@@ -1,14 +1,14 @@
-# Gesture Controlled Robot Car
+# 🤖 Gesture Controlled Robot Car
 
-## Overview
+## 📌 Overview
 A gesture-controlled robotic car that moves based on hand gestures detected using an **MPU6050 accelerometer & gyroscope**.  
 The system communicates wirelessly using **NRF24L01 PA + LNA modules**, enabling real-time and responsive control.
 
-## Project Description
+## 📖 Project Description
 The project uses hand tilt and motion data captured by the MPU6050 sensor to determine movement directions.  
 These signals are transmitted wirelessly to a receiver unit, which processes the data and controls the motors of the robotic car accordingly.
 
-## Components Used
+## 🔧 Components Used
 - Arduino Nano (x2)
 - MPU6050 Accelerometer & Gyroscope
 - NRF24L01 PA + LNA Module (x2)
@@ -20,7 +20,7 @@ These signals are transmitted wirelessly to a receiver unit, which processes the
   - Transmitter Unit: 2 batteries
   - Receiver Unit: 4 batteries
 
-## Folder Structure
+## 📂 Folder Structure
 ```
 gesture-controlled-car/
 │
@@ -37,8 +37,8 @@ gesture-controlled-car/
 ├── README.md
 └── LICENSE
 ```
-## Author
+## 👨‍💻 Author
 Mehedi Hasan Sifat
 
-## License
+## 📄 License
 This project is licensed under the MIT License.
